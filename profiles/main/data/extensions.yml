@@ -159,3 +159,5 @@ enabled:
     uuid: 1e149c89-8f97-447e-863d-1146f0ad1b70
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
+  - id: zxh404.vscode-proto3
+    uuid: 1d3d1fb2-0d8f-47ed-bfce-990b8ddfc9d8

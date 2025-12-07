@@ -2281,7 +2281,7 @@ workbench.contrib.onboarding.browser.changeManagement.v1.shown: "true"
 workbench.contrib.onboarding.browser.changePopup.03292025.shown: "true"
 workbench.contrib.onboarding.browser.changeRemainingCmdBackspaceKeybindings.04012025.shown: "true"
 workbench.contrib.onboarding.browser.gettingStarted.contribution.ts.firsttime: "false"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["sql",true],["json",true],["Log",true],["xml",true],["html",true],["typescript",true],["git-commit",true],["javascript",true],["properties",true],["shellscript",true],["jsonc",true],["plaintext",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["json",true],["Log",true],["xml",true],["html",true],["typescript",true],["git-commit",true],["javascript",true],["properties",true],["shellscript",true],["jsonc",true],["plaintext",true],["yaml",true]]'
 workbench.experiments.statsigBootstrap: "{\"can_record_session\":true,\"dynamic\
   _configs\":{\"101783700\":{\"group\":\"launchedGroup\",\"group_name\":\"contr\
   ol\",\"id_type\":\"prID\",\"is_device_based\":false,\"is_experiment_active\":\

@@ -35,12 +35,16 @@ enabled:
     uuid: ef2858dd-afcb-4e98-bc1e-1a18b18f1018
   - id: cschlosser.doxdocgen
     uuid: da7e26d5-d57c-4742-ab47-d77fb189e195
+  - id: cweijan.vscode-office
+    uuid: 936b1be7-8595-4f76-b102-aa6bb915da73
   - id: Dart-Code.dart-code
     uuid: f57f68ea-9ee8-42b5-9a97-041d3e4278c4
   - id: Dart-Code.flutter
     uuid: f6c3ec04-6057-4d9c-b997-69cba07a6158
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: dbcode.dbcode
+    uuid: a172cbe5-f099-458f-b024-382d48f54aa0
   - id: donjayamanne.python-extension-pack
     uuid: f5188937-53e0-45bb-a16d-61231003fa3b
   - id: eamodio.gitlens

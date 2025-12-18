@@ -5,9 +5,7 @@
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
-    "editor.rulers": [
-      120
-    ],
+    "editor.rulers": [120],
     "editor.selectionHighlight": true,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggestSelection": "first",
@@ -83,9 +81,7 @@
   "dart.flutterHotReloadOnSave": "allIfDirty",
   "dart.flutterRunLogFile": null,
   "dart.flutterSdkPath": "/Users/songdaehyeon/fvm/default/bin",
-  "dart.flutterSdkPaths": [
-    ".fvm/flutter_sdk"
-  ],
+  "dart.flutterSdkPaths": [".fvm/flutter_sdk"],
   "dart.hotReloadOnSave": "allIfDirty",
   "dart.lineLength": 120,
   "dart.openDevTools": "never",
@@ -110,7 +106,7 @@
   "editor.cursorBlinking": "phase",
   "editor.cursorSmoothCaretAnimation": "explicit",
   "editor.detectIndentation": true,
-  "editor.fontFamily": "'Maple Mono','D2CodingLigature Nerd Font','Monoplex KR Nerd','Victor Mono','엘리스 DX널리체 OTF','Iosevka Term','Ligalex Mono','Jetbrains Mono','Cascadia Code NF','Ligalex Mono','CaskaydiaCove Nerd Font Mono',  'Cascadia Code NF',   'D2Coding ligature', 'FiraCode Nerd Font Mono', 'SF Mono',  'Rec Mono Casual',  'Rec Mono Casual', 'Sarasa Mono K', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "'Jetbrains Mono','Maple Mono','Ligalex Mono','D2CodingLigature Nerd Font','Monoplex KR Nerd','Victor Mono','엘리스 DX널리체 OTF','Iosevka Term','Jetbrains Mono','Cascadia Code NF','Ligalex Mono','CaskaydiaCove Nerd Font Mono',  'Cascadia Code NF',   'D2Coding ligature', 'FiraCode Nerd Font Mono', 'SF Mono',  'Rec Mono Casual',  'Rec Mono Casual', 'Sarasa Mono K', Menlo, Monaco, 'Courier New', monospace",
   // "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss19', 'ss20','calt', 'ss01'",
   "editor.fontLigatures": "true",
   "editor.fontSize": 15,
@@ -122,27 +118,13 @@
   "editor.indentSize": "tabSize",
   "editor.inlineSuggest.enabled": true,
   "editor.language.colorizedBracketPairs": [
-    [
-      "{",
-      "}"
-    ],
-    [
-      "(",
-      ")"
-    ],
-    [
-      "[",
-      "]"
-    ],
-    [
-      "<",
-      ">"
-    ]
+    ["{", "}"],
+    ["(", ")"],
+    ["[", "]"],
+    ["<", ">"]
   ],
   "editor.mouseWheelZoom": true,
-  "editor.rulers": [
-    200
-  ],
+  "editor.rulers": [200],
   "editor.semanticTokenColorCustomizations": {
     "[Default Dark Modern]": {
       "enabled": true,
@@ -302,21 +284,13 @@
     "[Default Dark Modern]": {
       "textMateRules": [
         {
-          "scope": [
-            "entity.name.function",
-            "entity.name.function.python",
-            "support.function.python"
-          ],
+          "scope": ["entity.name.function", "entity.name.function.python", "support.function.python"],
           "settings": {
             "fontStyle": ""
           }
         },
         {
-          "scope": [
-            "constant.other.key.perl",
-            "variable.other.property",
-            "variable.other.constant.ts"
-          ],
+          "scope": ["constant.other.key.perl", "variable.other.property", "variable.other.constant.ts"],
           "settings": {
             "foreground": "#fd5656"
           }
@@ -328,10 +302,7 @@
           }
         },
         {
-          "scope": [
-            "string.quoted.single.python",
-            "string.quoted.double.html"
-          ],
+          "scope": ["string.quoted.single.python", "string.quoted.double.html"],
           "settings": {
             "foreground": "#FCF300"
           }
@@ -351,21 +322,14 @@
           }
         },
         {
-          "scope": [
-            "entity.name.tag.html",
-            "entity.name.tag.css"
-          ],
+          "scope": ["entity.name.tag.html", "entity.name.tag.css"],
           "settings": {
             "fontStyle": "italic",
             "foreground": "#ff79c6"
           }
         },
         {
-          "scope": [
-            "entity.other.attribute-name.html",
-            "support.type.property-name.css",
-            "entity.other.attribute-name"
-          ],
+          "scope": ["entity.other.attribute-name.html", "support.type.property-name.css", "entity.other.attribute-name"],
           "settings": {
             "fontStyle": "italic",
             "foreground": "#fdb058"
@@ -379,11 +343,7 @@
           }
         },
         {
-          "scope": [
-            "constant.numeric.dec.python",
-            "constant.numeric.json.comments",
-            "constant.language.python,constant.numeric.css"
-          ],
+          "scope": ["constant.numeric.dec.python", "constant.numeric.json.comments", "constant.language.python,constant.numeric.css"],
           "settings": {
             "fontStyle": "italic",
             "foreground": "#BD93F9"
@@ -414,21 +374,13 @@
     "[Dracula Refined]": {
       "textMateRules": [
         {
-          "scope": [
-            "entity.name.function",
-            "entity.name.function.python",
-            "support.function.python"
-          ],
+          "scope": ["entity.name.function", "entity.name.function.python", "support.function.python"],
           "settings": {
             "fontStyle": ""
           }
         },
         {
-          "scope": [
-            "constant.other.key.perl",
-            "variable.other.property",
-            "variable.other.constant.ts"
-          ],
+          "scope": ["constant.other.key.perl", "variable.other.property", "variable.other.constant.ts"],
           "settings": {
             "foreground": "#fd5656"
           }
@@ -440,39 +392,27 @@
           }
         },
         {
-          "scope": [
-            "string.quoted.single.python",
-            "string.quoted.double.html"
-          ],
+          "scope": ["string.quoted.single.python", "string.quoted.double.html"],
           "settings": {
             "foreground": "#FCF300"
           }
         },
         {
-          "scope": [
-            "keyword",
-            "keyword.control"
-          ],
+          "scope": ["keyword", "keyword.control"],
           "settings": {
             "fontStyle": "italic",
             "foreground": "#FC5FA3"
           }
         },
         {
-          "scope": [
-            "entity.name.tag.html",
-            "entity.name.tag.css"
-          ],
+          "scope": ["entity.name.tag.html", "entity.name.tag.css"],
           "settings": {
             "fontStyle": "italic",
             "foreground": "#ff79c6"
           }
         },
         {
-          "scope": [
-            "entity.other.attribute-name.html",
-            "support.type.property-name.css"
-          ],
+          "scope": ["entity.other.attribute-name.html", "support.type.property-name.css"],
           "settings": {
             "fontStyle": "italic",
             "foreground": "#fdb058"
@@ -486,11 +426,7 @@
           }
         },
         {
-          "scope": [
-            "constant.numeric.dec.python",
-            "constant.numeric.json.comments",
-            "constant.language.python,constant.numeric.css"
-          ],
+          "scope": ["constant.numeric.dec.python", "constant.numeric.json.comments", "constant.language.python,constant.numeric.css"],
           "settings": {
             "foreground": "#BD93F9"
           }
@@ -524,20 +460,13 @@
       "keywords": "#FF7AB2",
       "textMateRules": [
         {
-          "scope": [
-            "meta.function-call.arguments.python"
-          ],
+          "scope": ["meta.function-call.arguments.python"],
           "settings": {
             "foreground": "#D9DFE7"
           }
         },
         {
-          "scope": [
-            "support.class.dart",
-            "support.type.primitive.ts",
-            "meta.indexed-name.python",
-            "meta.function-call.generic.python"
-          ],
+          "scope": ["support.class.dart", "support.type.primitive.ts", "meta.indexed-name.python", "meta.function-call.generic.python"],
           "settings": {
             "fontStyle": "",
             "foreground": "#5DD8FF"
@@ -584,12 +513,7 @@
           }
         },
         {
-          "scope": [
-            "entity.other.attribute-name.html",
-            "support.type.property-name.css",
-            "meta.item-access.python",
-            "meta.member.access.python"
-          ],
+          "scope": ["entity.other.attribute-name.html", "support.type.property-name.css", "meta.item-access.python", "meta.member.access.python"],
           "settings": {
             "fontStyle": "",
             "foreground": "#fdb058"
@@ -603,19 +527,13 @@
           }
         },
         {
-          "scope": [
-            "punctuation.terminator.statement.ts",
-            "punctuation.definition.entity.css"
-          ],
+          "scope": ["punctuation.terminator.statement.ts", "punctuation.definition.entity.css"],
           "settings": {
             "foreground": "#FFFFFF"
           }
         },
         {
-          "scope": [
-            "entity.other.attribute-name.class.css",
-            "entity.other.attribute-name.id.css"
-          ],
+          "scope": ["entity.other.attribute-name.class.css", "entity.other.attribute-name.id.css"],
           "settings": {
             "fontStyle": "italic",
             "foreground": "#BD93F9"
@@ -648,43 +566,26 @@
           }
         },
         {
-          "scope": [
-            "entity.name.function.decorator.python"
-          ],
+          "scope": ["entity.name.function.decorator.python"],
           "settings": {
             "foreground": "#81C784",
             "fontStyle": "italic"
           }
         },
         {
-          "scope": [
-            "entity.name.function.ts",
-            "entity.name.function.python",
-            "support.function.builtin.python",
-            "meta.function-call.generic.python"
-          ],
+          "scope": ["entity.name.function.ts", "entity.name.function.python", "support.function.builtin.python", "meta.function-call.generic.python"],
           "settings": {
             "foreground": "#81C784"
           }
         },
         {
-          "scope": [
-            "variable.other.object.ts",
-            "variable.other.constant.ts",
-            "meta.fstring.python"
-          ],
+          "scope": ["variable.other.object.ts", "variable.other.constant.ts", "meta.fstring.python"],
           "settings": {
             "foreground": "#D9DFE7"
           }
         },
         {
-          "scope": [
-            "comment",
-            "comment.line",
-            "comment.block",
-            "comment.block.documentation",
-            "punctuation.definition.comment.yaml"
-          ],
+          "scope": ["comment", "comment.line", "comment.block", "comment.block.documentation", "punctuation.definition.comment.yaml"],
           "settings": {
             "foreground": "#A3A3A3"
           }
@@ -731,46 +632,33 @@
           }
         },
         {
-          "scope": [
-            "storage.modifier.async.ts"
-          ],
+          "scope": ["storage.modifier.async.ts"],
           "settings": {
             "foreground": "#4EACAD",
             "fontStyle": "italic"
           }
         },
         {
-          "scope": [
-            "constant.language.null.ts"
-          ],
+          "scope": ["constant.language.null.ts"],
           "settings": {
             "foreground": "#8BE9FD",
             "fontStyle": "italic"
           }
         },
         {
-          "scope": [
-            "variable.other.readwrite.alias.ts"
-          ],
+          "scope": ["variable.other.readwrite.alias.ts"],
           "settings": {
             "foreground": "#fdb058"
           }
         },
         {
-          "scope": [
-            "entity.name.package.go",
-            "entity.name.variable.local.cs"
-          ],
+          "scope": ["entity.name.package.go", "entity.name.variable.local.cs"],
           "settings": {
             "foreground": "#FEFFDB"
           }
         },
         {
-          "scope": [
-            "entity.name.type",
-            "entity.other.inherited-class.kotlin",
-            "support.class.kotlin"
-          ],
+          "scope": ["entity.name.type", "entity.other.inherited-class.kotlin", "support.class.kotlin"],
           "settings": {
             "foreground": "#FABD2F",
             "fontStyle": ""
@@ -781,11 +669,7 @@
     "[Gruvbox Dark Medium]": {
       "textMateRules": [
         {
-          "scope": [
-            "variable.language.this.js",
-            "variable.language.this.ts",
-            "variable.language.special.self.python"
-          ],
+          "scope": ["variable.language.this.js", "variable.language.this.ts", "variable.language.special.self.python"],
           "settings": {
             "foreground": "#A3A3A3",
             "fontStyle": "italic"
@@ -849,29 +733,20 @@
           }
         },
         {
-          "scope": [
-            "support.class.component.tsx",
-            "entity.name.tag.tsx"
-          ],
+          "scope": ["support.class.component.tsx", "entity.name.tag.tsx"],
           "settings": {
             "foreground": "#FABD2F"
           }
         },
         {
-          "scope": [
-            "entity.other.attribute-name.tsx"
-          ],
+          "scope": ["entity.other.attribute-name.tsx"],
           "settings": {
             "foreground": "#F3C1FF",
             "fontStyle": "italic"
           }
         },
         {
-          "scope": [
-            "meta.attribute.python",
-            "meta.member.access.python",
-            "meta.member.access.python"
-          ],
+          "scope": ["meta.attribute.python", "meta.member.access.python", "meta.member.access.python"],
           "settings": {
             "foreground": "#FFC093"
           }
@@ -890,20 +765,13 @@
           }
         },
         {
-          "scope": [
-            "entity.name.function.python",
-            "meta.function.python"
-          ],
+          "scope": ["entity.name.function.python", "meta.function.python"],
           "settings": {
             "fontStyle": ""
           }
         },
         {
-          "scope": [
-            "variable.language.this.js",
-            "variable.language.this.ts",
-            "variable.language.this.tsx"
-          ],
+          "scope": ["variable.language.this.js", "variable.language.this.ts", "variable.language.this.tsx"],
           "settings": {
             "foreground": "#9E9E9E",
             "fontStyle": "italic"
@@ -937,19 +805,13 @@
           }
         },
         {
-          "scope": [
-            "variable",
-            "variable.other.readwrite",
-            "variable.other"
-          ],
+          "scope": ["variable", "variable.other.readwrite", "variable.other"],
           "settings": {
             "foreground": "#FEFFDB"
           }
         },
         {
-          "scope": [
-            "storage.type.annotation.dart"
-          ],
+          "scope": ["storage.type.annotation.dart"],
           "settings": {
             "foreground": "#B8BB26"
           }
@@ -972,51 +834,38 @@
           }
         },
         {
-          "scope": [
-            "meta.object-literal.key.ts"
-          ],
+          "scope": ["meta.object-literal.key.ts"],
           "settings": {
             "foreground": "#AB9DF2",
             "fontStyle": "italic"
           }
         },
         {
-          "scope": [
-            "entity.name.type.interface.ts",
-            "entity.name.type.instance.jsdoc"
-          ],
+          "scope": ["entity.name.type.interface.ts", "entity.name.type.instance.jsdoc"],
           "settings": {
             "foreground": "#78DCE8"
           }
         },
         {
-          "scope": [
-            "meta.var.expr.js"
-          ],
+          "scope": ["meta.var.expr.js"],
           "settings": {
             "foreground": "#FABD2F"
           }
         },
         {
-          "scope": [
-            "constant.character.format.placeholder.other.python"
-          ],
+          "scope": ["constant.character.format.placeholder.other.python"],
           "settings": {
             "foreground": "#FF6188"
           }
         },
         {
-          "scope": [
-            "support.type.property-name.json.comments"
-          ],
+          "scope": ["support.type.property-name.json.comments"],
           "settings": {
             "foreground": "#81C784"
           }
         },
         {
-          "scope": [
-            "variable.other.property.js"
-          ],
+          "scope": ["variable.other.property.js"],
           "settings": {
             "foreground": "#FFC093"
           }
@@ -1030,11 +879,7 @@
           "settings": {}
         },
         {
-          "scope": [
-            "variable.language.this.js",
-            "variable.language.this.ts",
-            "variable.language.special.self.python"
-          ],
+          "scope": ["variable.language.this.js", "variable.language.this.ts", "variable.language.special.self.python"],
           "settings": {
             "foreground": "#A3A3A3",
             "fontStyle": "italic"
@@ -1130,9 +975,7 @@
           }
         },
         {
-          "scope": [
-            "entity.name.function.attribute.prisma"
-          ],
+          "scope": ["entity.name.function.attribute.prisma"],
           "settings": {
             "foreground": "#FD8DA3"
           }
@@ -1152,9 +995,7 @@
           }
         },
         {
-          "scope": [
-            "constant.other.database-name.sql"
-          ],
+          "scope": ["constant.other.database-name.sql"],
           "settings": {
             "foreground": "#D9DFE7"
           }
@@ -1176,18 +1017,13 @@
     "[Cursor Dark]": {
       "textMateRules": [
         {
-          "scope": [
-            "variable.other.property.js"
-          ],
+          "scope": ["variable.other.property.js"],
           "settings": {
             "foreground": "#E6C587"
           }
         },
         {
-          "scope": [
-            "variable.language.this.js",
-            "variable.language.this.ts"
-          ],
+          "scope": ["variable.language.this.js", "variable.language.this.ts"],
           "settings": {
             "foreground": "#A3A3A3",
             "fontStyle": "italic"
@@ -1291,10 +1127,7 @@
     "reportGeneralTypeIssues": "none",
     "reportOptionalMemberAccess": "none"
   },
-  "python.analysis.fixAll": [
-    "source.unusedImports",
-    "source.convertImportFormat"
-  ],
+  "python.analysis.fixAll": ["source.unusedImports", "source.convertImportFormat"],
   "python.analysis.indexing": true,
   "python.analysis.inlayHints.callArgumentNames": "all",
   "python.analysis.inlayHints.functionReturnTypes": true,
@@ -1354,12 +1187,7 @@
   "terminal.integrated.fontFamily": "'MesloLGS NF','FiraCode Nerd Font Mono','Cascadia Code','D2Coding'",
   "terminal.integrated.fontSize": 15,
   "terminal.integrated.fontWeight": "bold",
-  "terminal.integrated.localEchoExcludePrograms": [
-    "vim",
-    "vi",
-    "tmux",
-    "nano"
-  ],
+  "terminal.integrated.localEchoExcludePrograms": ["vim", "vi", "tmux", "nano"],
   "typescript.suggest.completeFunctionCalls": true,
   "vim.cursorStylePerMode.normal": "underline",
   "vsintellicode.features.python.deepLearning": "enabled",
@@ -1450,10 +1278,7 @@
       "icon": "terminal-powershell"
     },
     "Command Prompt": {
-      "path": [
-        "${env:windir}\\Sysnative\\cmd.exe",
-        "${env:windir}\\System32\\cmd.exe"
-      ],
+      "path": ["${env:windir}\\Sysnative\\cmd.exe", "${env:windir}\\System32\\cmd.exe"],
       "args": [],
       "icon": "terminal-cmd"
     },
@@ -1466,9 +1291,7 @@
   "editor.unicodeHighlight.nonBasicASCII": false,
   "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
   "typescript.inlayHints.variableTypes.enabled": true,
-  "settingsSync.ignoredExtensions": [
-    "prisma.prisma"
-  ],
+  "settingsSync.ignoredExtensions": ["prisma.prisma"],
   "typescript.experimental.updateImportsOnPaste": true,
   "typescript.surveys.enabled": false,
   "typescript.disableAutomaticTypeAcquisition": true,
@@ -1593,11 +1416,7 @@
   "editor.inlineSuggest.suppressSuggestions": true,
   "sync.gist": "c636c502243f680ca20f1dd279978c7c",
   "database-client.autoSync": true,
-  "cursor.cpp.disabledLanguages": [
-    "plaintext",
-    "markdown",
-    "scminput"
-  ],
+  "cursor.cpp.disabledLanguages": ["plaintext", "markdown", "scminput"],
   "python.analysis.supportRestructuredText": true,
   "pyright.disableLanguageServices": false,
   "pyright.disableOrganizeImports": false,
@@ -1606,16 +1425,9 @@
   "better-yaml.indentSeq": true,
   "pythonIndent.trimLinesWithOnlyWhitespace": true,
   "ruff.enable": true,
-  "ruff.lint.select": [
-    "E4",
-    "E7",
-    "E9",
-    "F"
-  ],
+  "ruff.lint.select": ["E4", "E7", "E9", "F"],
   "ruff.lineLength": 150,
-  "ruff.lint.ignore": [
-    "D101"
-  ],
+  "ruff.lint.ignore": ["D101"],
   "github.gitProtocol": "ssh",
   "git.autoStash": true,
   "git.blame.statusBarItem.enabled": true,
@@ -1659,16 +1471,7 @@
     "rangeBehavior": 3
   },
   "todo-tree.general.showIconsInsteadOfTagsInStatusBar": true,
-  "todo-tree.general.tags": [
-    "BUG",
-    "HACK",
-    "FIXME",
-    "TODO",
-    "XXX",
-    "[ ]",
-    "[x]",
-    "NOTE"
-  ],
+  "todo-tree.general.tags": ["BUG", "HACK", "FIXME", "TODO", "XXX", "[ ]", "[x]", "NOTE"],
   "todo-tree.highlights.customHighlight": {
     "BUG": {
       "icon": "bug"
@@ -1739,5 +1542,6 @@
   "claudeCode.preferredLocation": "panel",
   "workbench.editorAssociations": {
     "*.svg": "default"
-  }
+  },
+  "prettier.trailingComma": "none"
 }

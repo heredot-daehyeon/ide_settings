@@ -35,8 +35,6 @@ enabled:
     uuid: ef2858dd-afcb-4e98-bc1e-1a18b18f1018
   - id: cschlosser.doxdocgen
     uuid: da7e26d5-d57c-4742-ab47-d77fb189e195
-  - id: cweijan.vscode-office
-    uuid: 936b1be7-8595-4f76-b102-aa6bb915da73
   - id: Dart-Code.dart-code
     uuid: f57f68ea-9ee8-42b5-9a97-041d3e4278c4
   - id: Dart-Code.flutter
@@ -107,8 +105,6 @@ enabled:
     uuid: 41aac8eb-b4f4-408d-9708-320d033a17f8
   - id: mikestead.dotenv
     uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
-  - id: monokai.theme-monokai-pro-vscode
-    uuid: f5d7ffda-c1d6-4070-ba80-803c705a1ee6
   - id: ms-azuretools.vscode-containers
     uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
   - id: ms-azuretools.vscode-docker

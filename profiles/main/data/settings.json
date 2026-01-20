@@ -110,7 +110,7 @@
   "editor.cursorBlinking": "phase",
   "editor.cursorSmoothCaretAnimation": "explicit",
   "editor.detectIndentation": true,
-  "editor.fontFamily": "'Jetbrains Mono','Ligalex Mono','Cascadia Code NF'",
+  "editor.fontFamily": "'Cascadia Code NF'",
   "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss19', 'ss20','calt',",
   // "editor.fontLigatures": "true",
   "editor.fontSize": 14,
@@ -1758,5 +1758,6 @@
   },
   "prettier.trailingComma": "none",
   "vscode-office.editorTheme": "Nord",
-  "workbench.colorTheme": "Gruvbox Dark Medium"
+  "workbench.colorTheme": "Gruvbox Dark Medium",
+  "editor.minimap.enabled": true
 }

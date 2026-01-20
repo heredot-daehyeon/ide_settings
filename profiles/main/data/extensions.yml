@@ -1,5 +1,8 @@
 builtin:
   disabled:
+    - anysphere.cursor-agent-exec
+    - anysphere.cursor-always-local
+    - anysphere.cursor-retrieval
     - undefined.cursor-themes
 disabled: []
 enabled:
